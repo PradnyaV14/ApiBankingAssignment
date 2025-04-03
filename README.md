@@ -17,4 +17,4 @@ AddProduct - http://localhost:8080/products
 UpdateproductByID - http://localhost:8080/products/1 
 DeleteProduct - http://localhost:8080/products/1 
 GetStockAvailablity - http://localhost:8080/products/1/stock?count=1 GetPriceSortedProducts - http://localhost:8080/products/sorted
-
+GetPriceSortedProducts - http://localhost:8080/products/sorted
