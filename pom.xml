@@ -33,7 +33,6 @@
 	</dependencyManagement>
 
 	<dependencies>
-		<!-- ✅ Corrected Quarkus Dependencies -->
 		<dependency>
 			<groupId>io.quarkus</groupId>
 			<artifactId>quarkus-hibernate-reactive-panache</artifactId>
@@ -54,7 +53,6 @@
 			<groupId>jakarta.persistence</groupId>
 			<artifactId>jakarta.persistence-api</artifactId>
 		</dependency>
-		<!-- ✅ Testing Dependencies -->
 		<dependency>
 			<groupId>io.quarkus</groupId>
 			<artifactId>quarkus-junit5</artifactId>
